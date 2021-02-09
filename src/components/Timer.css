@@ -1,0 +1,8 @@
+/* Timer */
+
+.timer{
+    /* background-color: lightseagreen; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
